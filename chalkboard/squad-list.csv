@@ -1,0 +1,563 @@
+team,player,position
+Leicester City,Ron-Robert Zieler,GK
+Leicester City,Kasper Schmeichel,GK
+Leicester City,Ben Hamer,GK
+Leicester City,Robert Huth,DF
+Leicester City,Yohan Benalouane,DF
+Leicester City,Luis Hernández,DF
+Leicester City,Wes Morgan,DF
+Leicester City,Liam Moore,DF
+Leicester City,Marcin Wasilewski,DF
+Leicester City,Jeffrey Schlupp,DF
+Leicester City,Christian Fuchs,DF
+Leicester City,Danny Simpson,DF
+Leicester City,Ritchie De Laet,DF
+Leicester City,Nampalys Mendy,MF
+Leicester City,Daniel Amartey,MF
+Leicester City,N'Golo Kanté,MF
+Leicester City,Danny Drinkwater,MF
+Leicester City,Gökhan Inler,MF
+Leicester City,Andy King,MF
+Leicester City,Matty James,MF
+Leicester City,Marc Albrighton,MF
+Leicester City,Demarai Gray,MF
+Leicester City,Riyad Mahrez,MF
+Leicester City,Tom Lawrence,FW
+Leicester City,Jamie Vardy,FW
+Leicester City,Shinji Okazaki,FW
+Leicester City,Leonardo Ulloa,FW
+Arsenal FC,Wojciech Szczesny,GK
+Arsenal FC,Petr Cech,GK
+Arsenal FC,David Ospina,GK
+Arsenal FC,Emiliano Martínez,GK
+Arsenal FC,Matt Macey,GK
+Arsenal FC,Laurent Koscielny,DF
+Arsenal FC,Per Mertesacker,DF
+Arsenal FC,Gabriel Paulista,DF
+Arsenal FC,Calum Chambers,DF
+Arsenal FC,Nacho Monreal,DF
+Arsenal FC,Kieran Gibbs,DF
+Arsenal FC,Héctor Bellerín,DF
+Arsenal FC,Carl Jenkinson,DF
+Arsenal FC,Mathieu Debuchy,DF
+Arsenal FC,Francis Coquelin,MF
+Arsenal FC,Mohamed Elneny,MF
+Arsenal FC,Isaac Hayden,MF
+Arsenal FC,Granit Xhaka,MF
+Arsenal FC,Aaron Ramsey,MF
+Arsenal FC,Santi Cazorla,MF
+Arsenal FC,Jack Wilshere,MF
+Arsenal FC,Mesut Özil,MF
+Arsenal FC,Jon Toral,MF
+Arsenal FC,Serge Gnabry,MF
+Arsenal FC,Alex Iwobi,MF
+Arsenal FC,Alex Oxlade-Chamberlain,MF
+Arsenal FC,Wellington Silva,MF
+Arsenal FC,Alexis Sánchez,MF
+Arsenal FC,Theo Walcott,MF
+Arsenal FC,Joel Campbell,MF
+Arsenal FC,Olivier Giroud,FW
+Arsenal FC,Danny Welbeck,FW
+Arsenal FC,Yaya Sanogo,FW
+Arsenal FC,Takuma Asano,FW
+Arsenal FC,Chuba Akpom,FW
+Tottenham Hotspur,Hugo Lloris,GK
+Tottenham Hotspur,Michel Vorm,GK
+Tottenham Hotspur,Toby Alderweireld,DF
+Tottenham Hotspur,Jan Vertonghen,DF
+Tottenham Hotspur,Federico Fazio,DF
+Tottenham Hotspur,Kevin Wimmer,DF
+Tottenham Hotspur,Danny Rose,DF
+Tottenham Hotspur,Ben Davies,DF
+Tottenham Hotspur,Kyle Walker,DF
+Tottenham Hotspur,Kieran Trippier,DF
+Tottenham Hotspur,DeAndre Yedlin,DF
+Tottenham Hotspur,Eric Dier,MF
+Tottenham Hotspur,Victor Wanyama,MF
+Tottenham Hotspur,Nabil Bentaleb,MF
+Tottenham Hotspur,Dele Alli,MF
+Tottenham Hotspur,Mousa Dembélé,MF
+Tottenham Hotspur,Ryan Mason,MF
+Tottenham Hotspur,Tom Carroll,MF
+Tottenham Hotspur,Grant Ward,MF
+Tottenham Hotspur,Christian Eriksen,MF
+Tottenham Hotspur,Alex Pritchard,MF
+Tottenham Hotspur,Josh Onomah,MF
+Tottenham Hotspur,Nacer Chadli,MF
+Tottenham Hotspur,Érik Lamela,MF
+Tottenham Hotspur,Heung-Min Son,MF
+Tottenham Hotspur,Harry Kane,FW
+Tottenham Hotspur,Clinton N'Jie,FW
+Manchester City,Joe Hart,GK
+Manchester City,Willy Caballero,GK
+Manchester City,Nicolás Otamendi,DF
+Manchester City,Vincent Kompany,DF
+Manchester City,Eliaquim Mangala,DF
+Manchester City,Jason Denayer,DF
+Manchester City,Aleksandar Kolarov,DF
+Manchester City,Gaël Clichy,DF
+Manchester City,Pablo Zabaleta,DF
+Manchester City,Bacary Sagna,DF
+Manchester City,Fernando,MF
+Manchester City,Ilkay Gündogan,MF
+Manchester City,Fernandinho,MF
+Manchester City,Yaya Touré,MF
+Manchester City,Fabian Delph,MF
+Manchester City,Bruno Zuculini,MF
+Manchester City,Kevin De Bruyne,MF
+Manchester City,David Silva,MF
+Manchester City,Oleksandr Zinchenko,MF
+Manchester City,Samir Nasri,MF
+Manchester City,Nolito,MF
+Manchester City,Jesús Navas,MF
+Manchester City,Raheem Sterling,MF
+Manchester City,Sergio Agüero,FW
+Manchester City,Wilfried Bony,FW
+Manchester City,Kelechi Iheanacho,FW
+Manchester City,Enes Ünal,FW
+Manchester City,Rubén Sobrino,FW
+Manchester United,David de Gea,GK
+Manchester United,Sergio Romero,GK
+Manchester United,Sam Johnstone,GK
+Manchester United,Chris Smalling,DF
+Manchester United,Daley Blind,DF
+Manchester United,Marcos Rojo,DF
+Manchester United,Phil Jones,DF
+Manchester United,Eric Bailly,DF
+Manchester United,Patrick McNair,DF
+Manchester United,Tyler Blackett,DF
+Manchester United,Luke Shaw,DF
+Manchester United,Cameron Borthwick-Jackson,DF
+Manchester United,Matteo Darmian,DF
+Manchester United,Antonio Valencia,DF
+Manchester United,Guillermo Varela,DF
+Manchester United,Morgan Schneiderlin,MF
+Manchester United,Michael Carrick,MF
+Manchester United,Timothy Fosu-Mensah,MF
+Manchester United,Ander Herrera,MF
+Manchester United,Marouane Fellaini,MF
+Manchester United,Bastian Schweinsteiger,MF
+Manchester United,Juan Mata,MF
+Manchester United,Henrikh Mkhitaryan,MF
+Manchester United,Andreas Pereira,MF
+Manchester United,Memphis Depay,MF
+Manchester United,Ashley Young,MF
+Manchester United,Adnan Januzaj,MF
+Manchester United,Jesse Lingard,MF
+Manchester United,Wayne Rooney,FW
+Manchester United,Anthony Martial,FW
+Manchester United,Zlatan Ibrahimovic,FW
+Manchester United,Marcus Rashford,FW
+Manchester United,James Wilson,FW
+Manchester United,Will Keane,FW
+Southampton FC,Fraser Forster,GK
+Southampton FC,Paulo Gazzaniga,GK
+Southampton FC,Virgil van Dijk,DF
+Southampton FC,Florin Gardos,DF
+Southampton FC,José Fonte,DF
+Southampton FC,Maya Yoshida,DF
+Southampton FC,Jack Stephens,DF
+Southampton FC,Ryan Bertrand,DF
+Southampton FC,Matt Targett,DF
+Southampton FC,Cédric Soares,DF
+Southampton FC,Cuco Martina,DF
+Southampton FC,Jordy Clasie,MF
+Southampton FC,Oriol Romeu,MF
+Southampton FC,James Ward-Prowse,MF
+Southampton FC,Steven Davis,MF
+Southampton FC,Harrison Reed,MF
+Southampton FC,Sam McQueen,MF
+Southampton FC,Dusan Tadic,MF
+Southampton FC,Lloyd Isgrove,MF
+Southampton FC,Nathan Redmond,MF
+Southampton FC,Jay Rodríguez,MF
+Southampton FC,Charlie Austin,FW
+Southampton FC,Graziano Pellè,FW
+Southampton FC,Shane Long,FW
+Southampton FC,Sam Gallagher,FW
+West Ham United,Adrián,GK
+West Ham United,Darren Randolph,GK
+West Ham United,Raphael Spiegel,GK
+West Ham United,Winston Reid,DF
+West Ham United,Angelo Ogbonna,DF
+West Ham United,James Collins,DF
+West Ham United,Reece Oxford,DF
+West Ham United,Reece Burke,DF
+West Ham United,Doneil Henry,DF
+West Ham United,Aaron Cresswell,DF
+West Ham United,Sam Byram,DF
+West Ham United,Sam Westley,DF
+West Ham United,Cheikhou Kouyaté,MF
+West Ham United,Havard Nordtveit,MF
+West Ham United,Pedro Obiang,MF
+West Ham United,Mark Noble,MF
+West Ham United,Diego Poyet,MF
+West Ham United,Josh Cullen,MF
+West Ham United,Manuel Lanzini,MF
+West Ham United,Dimitri Payet,MF
+West Ham United,Sofiane Feghouli,MF
+West Ham United,Michail Antonio,MF
+West Ham United,Enner Valencia,FW
+West Ham United,Andy Carroll,FW
+West Ham United,Diafra Sakho,FW
+West Ham United,Toni Martínez,FW
+Liverpool FC,Simon Mignolet,GK
+Liverpool FC,Loris Karius,GK
+Liverpool FC,Ádám Bogdán,GK
+Liverpool FC,Danny Ward,GK
+Liverpool FC,Mamadou Sakho,DF
+Liverpool FC,Joel Matip,DF
+Liverpool FC,Dejan Lovren,DF
+Liverpool FC,Martin Skrtel,DF
+Liverpool FC,Tiago Ilori,DF
+Liverpool FC,Joe Gomez,DF
+Liverpool FC,Alberto Moreno,DF
+Liverpool FC,Brad Smith,DF
+Liverpool FC,Nathaniel Clyne,DF
+Liverpool FC,Jon Flanagan,DF
+Liverpool FC,Andre Wisdom,DF
+Liverpool FC,Connor Randall,DF
+Liverpool FC,Emre Can,MF
+Liverpool FC,Lucas Leiva,MF
+Liverpool FC,Kevin Stewart,MF
+Liverpool FC,Jordan Henderson,MF
+Liverpool FC,James Milner,MF
+Liverpool FC,Joe Allen,MF
+Liverpool FC,Marko Grujic,MF
+Liverpool FC,Coutinho,MF
+Liverpool FC,Adam Lallana,MF
+Liverpool FC,Luis Alberto,MF
+Liverpool FC,Sadio Mané,MF
+Liverpool FC,Sheyi Ojo,MF
+Liverpool FC,Lazar Markovic,MF
+Liverpool FC,Jordon Ibe,MF
+Liverpool FC,Roberto Firmino,FW
+Liverpool FC,Christian Benteke,FW
+Liverpool FC,Daniel Sturridge,FW
+Liverpool FC,Danny Ings,FW
+Liverpool FC,Divock Origi,FW
+Liverpool FC,Mario Balotelli,FW
+Stoke City,Jack Butland,GK
+Stoke City,Jakob Haugaard,GK
+Stoke City,Shay Given,GK
+Stoke City,Ryan Shawcross,DF
+Stoke City,Philipp Wollscheid,DF
+Stoke City,Marc Muniesa,DF
+Stoke City,Marc Wilson,DF
+Stoke City,Geoff Cameron,DF
+Stoke City,Dionatan Teixeira,DF
+Stoke City,Erik Pieters,DF
+Stoke City,Glen Johnson,DF
+Stoke City,Phil Bardsley,DF
+Stoke City,Giannelli Imbula,MF
+Stoke City,Glenn Whelan,MF
+Stoke City,Charlie Adam,MF
+Stoke City,Stephen Ireland,MF
+Stoke City,Ibrahim Afellay,MF
+Stoke City,Xherdan Shaqiri,MF
+Stoke City,Marko Arnautovic,MF
+Stoke City,Jonathan Walters,MF
+Stoke City,Bojan Krkic,FW
+Stoke City,Mame Diouf,FW
+Stoke City,Joselu,FW
+Stoke City,Peter Crouch,FW
+Stoke City,George Waring,FW
+Chelsea FC,Thibaut Courtois,GK
+Chelsea FC,Asmir Begovic,GK
+Chelsea FC,Matej Delac,GK
+Chelsea FC,Jamal Blackman,GK
+Chelsea FC,Kurt Zouma,DF
+Chelsea FC,Gary Cahill,DF
+Chelsea FC,Papy Djilobodji,DF
+Chelsea FC,Michael Hector,DF
+Chelsea FC,Tomás Kalas,DF
+Chelsea FC,John Terry,DF
+Chelsea FC,Matt Miazga,DF
+Chelsea FC,Kenneth Omeruo,DF
+Chelsea FC,Abdul Rahman Baba,DF
+Chelsea FC,Kenedy,DF
+Chelsea FC,Cristian Cuevas,DF
+Chelsea FC,César Azpilicueta,DF
+Chelsea FC,Branislav Ivanovic,DF
+Chelsea FC,Nemanja Matic,MF
+Chelsea FC,John Obi Mikel,MF
+Chelsea FC,Nathaniel Chalobah,MF
+Chelsea FC,Cesc Fàbregas,MF
+Chelsea FC,Marco van Ginkel,MF
+Chelsea FC,Mario Pasalic,MF
+Chelsea FC,Ruben Loftus-Cheek,MF
+Chelsea FC,Oscar,MF
+Chelsea FC,Marko Marin,MF
+Chelsea FC,Danilo Pantic,MF
+Chelsea FC,Eden Hazard,MF
+Chelsea FC,Lucas Piazón,MF
+Chelsea FC,Willian,MF
+Chelsea FC,Juan Cuadrado,MF
+Chelsea FC,Pedro,MF
+Chelsea FC,Victor Moses,MF
+Chelsea FC,Christian Atsu,MF
+Chelsea FC,Isaiah Brown,MF
+Chelsea FC,Diego Costa,FW
+Chelsea FC,Michy Batshuayi,FW
+Chelsea FC,Loïc Rémy,FW
+Chelsea FC,Patrick Bamford,FW
+Chelsea FC,Bertrand Traoré,FW
+Everton FC,Joel Robles,GK
+Everton FC,Maarten Stekelenburg,GK
+Everton FC,John Stones,DF
+Everton FC,Ramiro Funes Mori,DF
+Everton FC,Phil Jagielka,DF
+Everton FC,Leighton Baines,DF
+Everton FC,Bryan Oviedo,DF
+Everton FC,Brendan Galloway,DF
+Everton FC,Luke Garbutt,DF
+Everton FC,Seamus Coleman,DF
+Everton FC,Tyias Browning,DF
+Everton FC,Muhamed Besic,MF
+Everton FC,Gareth Barry,MF
+Everton FC,James McCarthy,MF
+Everton FC,Tom Cleverley,MF
+Everton FC,Darron Gibson,MF
+Everton FC,Conor Grant,MF
+Everton FC,Ross Barkley,MF
+Everton FC,Kevin Mirallas,MF
+Everton FC,Gerard Deulofeu,MF
+Everton FC,Aaron Lennon,MF
+Everton FC,Aiden McGeady,MF
+Everton FC,Shani Tarashaj,FW
+Everton FC,Romelu Lukaku,FW
+Everton FC,Oumar Niasse,FW
+Everton FC,Arouna Koné,FW
+Everton FC,Leandro Rodríguez,FW
+Everton FC,Conor McAleny,FW
+Swansea City,Lukasz Fabianski,GK
+Swansea City,Kristoffer Nordfeldt,GK
+Swansea City,Gerhard Tremmel,GK
+Swansea City,Federico Fernández,DF
+Swansea City,Ashley Williams,DF
+Swansea City,Jordi Amat,DF
+Swansea City,Neil Taylor,DF
+Swansea City,Franck Tabanou,DF
+Swansea City,Stephen Kingsley,DF
+Swansea City,Kyle Naughton,DF
+Swansea City,Ángel Rangel,DF
+Swansea City,Connor Roberts,DF
+Swansea City,Sung-Yong Ki,MF
+Swansea City,Jack Cork,MF
+Swansea City,Leroy Fer,MF
+Swansea City,Matt Grimes,MF
+Swansea City,Leon Britton,MF
+Swansea City,Jay Fulton,MF
+Swansea City,Gylfi Sigurdsson,MF
+Swansea City,André Ayew,MF
+Swansea City,Jefferson Montero,MF
+Swansea City,Wayne Routledge,MF
+Swansea City,Nathan Dyer,MF
+Swansea City,Modou Barrow,MF
+Swansea City,Bafetimbi Gomis,FW
+Swansea City,Marvin Emnes,FW
+Watford FC,Costel Pantilimon,GK
+Watford FC,Giedrius Arlauskis,GK
+Watford FC,Heurelho Gomes,GK
+Watford FC,Rene Gilmartin,GK
+Watford FC,Christian Kabasele,DF
+Watford FC,Sebastian Prödl,DF
+Watford FC,Craig Cathcart,DF
+Watford FC,Miguel Britos,DF
+Watford FC,Essaïd Belkalem,DF
+Watford FC,Tom Hoban,DF
+Watford FC,José Holebas,DF
+Watford FC,Daniel Pudil,DF
+Watford FC,Allan Nyom,DF
+Watford FC,Juanfran,DF
+Watford FC,Juan Carlos Paredes,DF
+Watford FC,Étienne Capoue,MF
+Watford FC,Mario Suárez,MF
+Watford FC,Valon Behrami,MF
+Watford FC,Abdoulaye Doucouré,MF
+Watford FC,Ben Watson,MF
+Watford FC,Adlène Guédioura,MF
+Watford FC,Sean Murray,MF
+Watford FC,Ikechi Anya,MF
+Watford FC,Almen Abdi,MF
+Watford FC,Steven Berghuis,MF
+Watford FC,Nordin Amrabat,MF
+Watford FC,Isaac Success,MF
+Watford FC,Odion Ighalo,FW
+Watford FC,Troy Deeney,FW
+Watford FC,Obbi Oulare,FW
+Watford FC,Matej Vydra,FW
+Watford FC,Jerome Sinclair,FW
+West Bromwich Albion,Ben Foster,GK
+West Bromwich Albion,Boaz Myhill,GK
+West Bromwich Albion,Jack Rose,GK
+West Bromwich Albion,Jonny Evans,DF
+West Bromwich Albion,James Chester,DF
+West Bromwich Albion,Jonas Olsson,DF
+West Bromwich Albion,Gareth McAuley,DF
+West Bromwich Albion,Sébastien Pocognoli,DF
+West Bromwich Albion,Craig Dawson,DF
+West Bromwich Albion,Cristian Gamboa,DF
+West Bromwich Albion,Claudio Yacob,MF
+West Bromwich Albion,James Morrison,MF
+West Bromwich Albion,Craig Gardner,MF
+West Bromwich Albion,Darren Fletcher,MF
+West Bromwich Albion,Chris Brunt,MF
+West Bromwich Albion,James McClean,MF
+West Bromwich Albion,Callum McManaman,MF
+West Bromwich Albion,Saido Berahino,FW
+West Bromwich Albion,José Salomón Rondón,FW
+West Bromwich Albion,Rickie Lambert,FW
+Crystal Palace,Steve Mandanda,GK
+Crystal Palace,Wayne Hennessey,GK
+Crystal Palace,Alex McCarthy,GK
+Crystal Palace,Julián Speroni,GK
+Crystal Palace,James Tomkins,DF
+Crystal Palace,Scott Dann,DF
+Crystal Palace,Damien Delaney,DF
+Crystal Palace,Pape Souaré,DF
+Crystal Palace,Zeki Fryers,DF
+Crystal Palace,Jerome Binnom-Williams,DF
+Crystal Palace,Joel Ward,DF
+Crystal Palace,Martin Kelly,DF
+Crystal Palace,Mile Jedinak,MF
+Crystal Palace,Yohan Cabaye,MF
+Crystal Palace,James McArthur,MF
+Crystal Palace,Jordon Mutch,MF
+Crystal Palace,Joe Ledley,MF
+Crystal Palace,Hiram Boateng,MF
+Crystal Palace,Jonathan Williams,MF
+Crystal Palace,Bakary Sako,MF
+Crystal Palace,Andros Townsend,MF
+Crystal Palace,Wilfried Zaha,MF
+Crystal Palace,Jason Puncheon,MF
+Crystal Palace,Chung-Yong Lee,MF
+Crystal Palace,Yannick Bolasie,MF
+Crystal Palace,Connor Wickham,FW
+Crystal Palace,Fraizer Campbell,FW
+Crystal Palace,Kwesi Appiah,FW
+AFC Bournemouth,Artur Boruc,GK
+AFC Bournemouth,Adam Federici,GK
+AFC Bournemouth,Ryan Allsop,GK
+AFC Bournemouth,Steve Cook,DF
+AFC Bournemouth,Baily Cargill,DF
+AFC Bournemouth,Tyrone Mings,DF
+AFC Bournemouth,Nathan Aké,DF
+AFC Bournemouth,Charlie Daniels,DF
+AFC Bournemouth,Rhoys Wiggins,DF
+AFC Bournemouth,Simon Francis,DF
+AFC Bournemouth,Adam Smith,DF
+AFC Bournemouth,Dan Gosling,MF
+AFC Bournemouth,Andrew Surman,MF
+AFC Bournemouth,Harry Arter,MF
+AFC Bournemouth,Eunan O'Kane,MF
+AFC Bournemouth,Emerson Hyndman,MF
+AFC Bournemouth,Shaun MacDonald,MF
+AFC Bournemouth,Max Gradel,MF
+AFC Bournemouth,Junior Stanislas,MF
+AFC Bournemouth,Marc Pugh,MF
+AFC Bournemouth,Ryan Fraser,MF
+AFC Bournemouth,Harry Cornick,MF
+AFC Bournemouth,Joshua King,FW
+AFC Bournemouth,Benik Afobe,FW
+AFC Bournemouth,Callum Wilson,FW
+AFC Bournemouth,Lewis Grabban,FW
+AFC Bournemouth,Tokelo Rantie,FW
+AFC Bournemouth,Lys Mousset,FW
+AFC Bournemouth,Joe Quigley,FW
+Sunderland AFC,Vito Mannone,GK
+Sunderland AFC,Jordan Pickford,GK
+Sunderland AFC,Lamine Koné,DF
+Sunderland AFC,Younès Kaboul,DF
+Sunderland AFC,John O'Shea,DF
+Sunderland AFC,Patrick van Aanholt,DF
+Sunderland AFC,Adam Matthews,DF
+Sunderland AFC,Billy Jones,DF
+Sunderland AFC,Jack Rodwell,MF
+Sunderland AFC,Lee Cattermole,MF
+Sunderland AFC,Liam Bridcutt,MF
+Sunderland AFC,Jan Kirchhoff,MF
+Sunderland AFC,Emanuele Giaccherini,MF
+Sunderland AFC,Sebastian Larsson,MF
+Sunderland AFC,Jordi Gómez,MF
+Sunderland AFC,Wahbi Khazri,MF
+Sunderland AFC,Charalampos Mavrias,MF
+Sunderland AFC,Jeremain Lens,MF
+Sunderland AFC,Fabio Borini,MF
+Sunderland AFC,Will Buckley,MF
+Sunderland AFC,Duncan Watmore,MF
+Sunderland AFC,Jermain Defoe,FW
+Burnley FC,Tom Heaton,GK
+Burnley FC,Paul Robinson,GK
+Burnley FC,Michael Keane,DF
+Burnley FC,James Tarkowski,DF
+Burnley FC,Kevin Long,DF
+Burnley FC,Tom Anderson,DF
+Burnley FC,Ben Mee,DF
+Burnley FC,Stephen Ward,DF
+Burnley FC,Danny Lafferty,DF
+Burnley FC,Matthew Lowton,DF
+Burnley FC,Tendayi Darikwa,DF
+Burnley FC,Luke Hendrie,DF
+Burnley FC,David Jones,MF
+Burnley FC,Dean Marney,MF
+Burnley FC,Fredrik Ulvestad,MF
+Burnley FC,Jack Leitch,MF
+Burnley FC,George Boyd,MF
+Burnley FC,Scott Arfield,MF
+Burnley FC,Michael Kightly,MF
+Burnley FC,Chris Long,FW
+Burnley FC,Andre Gray,FW
+Burnley FC,Sam Vokes,FW
+Burnley FC,Ashley Barnes,FW
+Burnley FC,Rouwen Hennings,FW
+Burnley FC,Lukas Jutkiewicz,FW
+Middlesbrough FC,Connor Ripley,GK
+Middlesbrough FC,Dimitrios Konstantopoulos,GK
+Middlesbrough FC,Tomás Mejías,GK
+Middlesbrough FC,Bernardo Espinosa,DF
+Middlesbrough FC,Ben Gibson,DF
+Middlesbrough FC,Daniel Ayala,DF
+Middlesbrough FC,Dael Fry,DF
+Middlesbrough FC,Adam Jackson,DF
+Middlesbrough FC,George Friend,DF
+Middlesbrough FC,James Husband,DF
+Middlesbrough FC,Emilio Nsue,DF
+Middlesbrough FC,Alex Baptiste,DF
+Middlesbrough FC,Julien de Sart,MF
+Middlesbrough FC,Bryn Morris,MF
+Middlesbrough FC,Marten de Roon,MF
+Middlesbrough FC,Adam Clayton,MF
+Middlesbrough FC,Adam Forshaw,MF
+Middlesbrough FC,Grant Leadbitter,MF
+Middlesbrough FC,Carlos de Pena,MF
+Middlesbrough FC,Adam Reach,MF
+Middlesbrough FC,Stewart Downing,MF
+Middlesbrough FC,Mustapha Carayol,MF
+Middlesbrough FC,Albert Adomah,MF
+Middlesbrough FC,Viktor Fischer,MF
+Middlesbrough FC,Jordan Rhodes,FW
+Middlesbrough FC,Cristhian Stuani,FW
+Middlesbrough FC,David Nugent,FW
+Hull City,Allan McGregor,GK
+Hull City,Dusan Kuciak,GK
+Hull City,Eldin Jakupovic,GK
+Hull City,Curtis Davies,DF
+Hull City,Michael Dawson,DF
+Hull City,Harry Maguire,DF
+Hull City,Alex Bruce,DF
+Hull City,Andrew Robertson,DF
+Hull City,Moses Odubajo,DF
+Hull City,Brian Lenihan,DF
+Hull City,Tom Huddlestone,MF
+Hull City,Mohamed Diamé,MF
+Hull City,Jake Livermore,MF
+Hull City,David Meyler,MF
+Hull City,Ahmed Elmohamady,MF
+Hull City,Samuel Clucas,MF
+Hull City,Shaun Maloney,MF
+Hull City,Robert Snodgrass,MF
+Hull City,Calaum Jahraldo-Martin,MF
+Hull City,Abel Hernández,FW
+Hull City,Adama Diomande,FW
+Hull City,Greg Luer,FW
